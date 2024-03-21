@@ -6,14 +6,14 @@ function Footer() {
         <div className='footer-content'>
             <nav className='footer-nav'>
                 <ul className='nav-items'>
-                    <a>Home</a>
-                    <a>Terms and Conditions</a>
-                    <a>Privacy Policy</a>
-                    <a>Collection Statement</a>
-                    <a>Help</a>
-                    <a>Manage Account</a>
-                    <a>Podcasts</a>
-                    <a>About Talkieflux</a>
+                    <a href='/#'>Home</a>
+                    <a href='/#'>Terms and Conditions</a>
+                    <a href='/#'>Privacy Policy</a>
+                    <a href='/#'>Collection Statement</a>
+                    <a href='/#'>Help</a>
+                    <a href='/#'>Manage Account</a>
+                    <a href='/#'>Podcasts</a>
+                    <a href='/#'>About Talkieflux</a>
                 </ul>
             </nav>
             <div className='social-links'>
@@ -32,7 +32,7 @@ Portions of this content are ©2018–2023 by individual talkieflux.com contribu
             </div>
             </div>
             <div className='web-url'>
-                <a href="#">www.talkieflux.com</a>
+                <a href="/#">www.talkieflux.com</a>
             </div>
         </div>
     </div>
